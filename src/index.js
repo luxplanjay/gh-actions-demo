@@ -1,1 +1,1 @@
-console.log("Parcel 2.0");
+console.log("GitHub Actions Demo");
