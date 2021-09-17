@@ -1,0 +1,25 @@
+{
+  "name": "gh-actions-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "start": "parcel serve src/index.html --open",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luxplanjay/gh-actions-demo.git"
+  },
+  "keywords": [],
+  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luxplanjay/gh-actions-demo/issues"
+  },
+  "homepage": "https://github.com/luxplanjay/gh-actions-demo#readme",
+  "devDependencies": {
+    "parcel": "^2.0.0-rc.0"
+  }
+}
